@@ -31,19 +31,19 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">AWS Lambda + FastAPI (Serverless Deployment)</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Complete CI/CD Pipeline Using GitHub Actions
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://medium.com/thelorry-product-tech-data/aws-lambda-fastapi-ci-cd-pipeline-with-github-actions-c414866b2d48"><strong>Used this tutorial »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/arthur0410/fastapi-serverless">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/arthur0410/fastapi-serverless/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/arthur0410/fastapi-serverless/issues">Request Feature</a>
   </p>
 </p>
 
